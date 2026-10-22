@@ -7,6 +7,12 @@
     "inbox": "tower-andrew@agentmail.to"
   },
   "timezone": "America/Denver",
+  "home": {
+    "label": "Las Cruces, NM",
+    "lat": 32.32,
+    "lon": -106.76,
+    "airport": "ELP"
+  },
   "brief": {
     "time": "08:25",
     "deliver": [
@@ -152,7 +158,8 @@
     "redirectUri": "http://127.0.0.1:8700/oauth/google/callback"
   },
   "calendarRules": [
-    "Before proposing a calendar event found in email, search all calendars in divisions for the same thing (title keywords, date, ±1 day, any time zone, including Gmail-created events). If it already exists, don't propose a new one. If its time or details differ from the email, propose a fix to the existing event instead."
+    "Before proposing a calendar event found in email, search all calendars in divisions for the same thing (title keywords, date, ±1 day, any time zone, including Gmail-created events). If it already exists, don't propose a new one. If its time or details differ from the email, propose a fix to the existing event instead.",
+    "Never assume where Andrew is. Before giving a leave-by time, drive time or anything that depends on his location, find his current location: his phone's latest location ping if one exists, otherwise what his calendar and trips say for that day. If neither gives a fresh answer, name the starting point you used (e.g. \"from home in Las Cruces\") so he can correct it. Home is Las Cruces, NM; airport ELP."
   ],
   "notificationRules": [
     "Scheduled and on-demand runs are silent in chat. Results go to the Chief of Staff page. Only report in chat when there's an actual error: a failed tool call or write, an approved proposal that couldn't be done, or a source that couldn't be read.",
