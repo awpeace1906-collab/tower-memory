@@ -7,6 +7,12 @@
     "inbox": "tower-andrew@agentmail.to"
   },
   "timezone": "America/Denver",
+  "home": {
+    "label": "Las Cruces, NM",
+    "lat": 32.32,
+    "lon": -106.76,
+    "airport": "ELP"
+  },
   "brief": {
     "time": "08:25",
     "deliver": [
