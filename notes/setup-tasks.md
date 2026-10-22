@@ -10,6 +10,7 @@ The owner's own setup steps for running the Chief of Staff app. Product work is 
 - [ ] Optional: `AERODATABOX_KEY` (RapidAPI) for per-flight status; FAA airport data works without it.
 - [ ] Load memory into the app: `cos import --memory /data/tower-memory` (plus `--page` with the page export).
 - [ ] Turn on `email.sendApprovedDrafts` once comfortable with the agent sending approved drafts from Gmail.
+- [ ] Later: location on the iPhone. Until the native app exists, a Shortcuts automation sends the phone's location to the app (core `docs/features/location.md`).
 
 ## Texting and voice
 
