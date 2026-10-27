@@ -7,6 +7,7 @@ The owner's own setup steps for running the Chief of Staff app. Product work is 
 - [ ] Create the Google Cloud project and connect Google (one-time; core `docs/setup/google.md`). Sign in as the Gmail account in `memory.json` → `assistant.email`; add it as a test user.
 - [ ] Put the Anthropic API key in the app's environment; reconnect Google once for the send and calendar-write permissions.
 - [ ] Pick a host (Fly.io recommended to start; region near Las Cruces/El Paso, e.g. `den`) and deploy; register the Microsoft app and connect the personal Microsoft account.
+- [ ] Connect the other accounts to watch, from the app's Settings → Other accounts to watch: each extra Google account (add it as a test user on the consent screen first) and each Microsoft 365 account (burrell.edu only if Burrell IT allows the app; otherwise keep forwarding digests). Then pick which of their calendars join which division.
 - [ ] Optional: `AERODATABOX_KEY` (RapidAPI) for per-flight status; FAA airport data works without it.
 - [ ] Load memory into the app: `cos import --memory /data/tower-memory` (plus `--page` with the page export).
 - [ ] Turn on `email.sendApprovedDrafts` once comfortable with the agent sending approved drafts from Gmail.
