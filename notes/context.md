@@ -16,7 +16,7 @@ When Andrew is out of town on rotation, Monday 4pm Jason Wyatt sessions go remot
 ## Rotations and travel (fall 2026)
 
 - St. Louis, WashU CTICU elective (Silver team): Oct 25 to Nov 21. Weekday shifts 6am–7pm CT from Oct 27; Day 1 Mon Oct 26, badge at FISC 7am, then the 6100 CTICU workroom. Coordinator: Alexis French.
-- Tucson (University of Arizona EM audition): Nov 23 to Dec 18. Required orientation Nov 23 8am–1pm and final exam Dec 18 8–11:30am (Arizona time); no interviews on those dates.
+- Tucson (University of Arizona EM audition): Nov 23 to Dec 18. Required orientation Nov 23 8am–1pm and final exam Dec 18 8–11:30am (Arizona time); no interviews on those dates. AREM Sub-I schedule letter: XX (R08); search Homebase for it to pull the 14 shifts.
 - Interviews: University of Arizona anesthesiology, Thu Nov 5 7:30–10:30am Arizona (falls on a CTICU shift; ask the coordinator for the morning) and Tue Dec 8 12:20–3:00pm.
 - First flight watch: Sun Oct 25, AA 690 ELP→DFW (5:36pm MT) and AA 1445 DFW→STL (lands 11:42pm CT). Scheduled-task watches at 2:36pm and 7:55pm MT; the app watches them live once hosted.
 - Kenneth and Judith visit Nov 23 to Dec 3 (Delta, PNS→ELP), while Andrew is in Tucson.
