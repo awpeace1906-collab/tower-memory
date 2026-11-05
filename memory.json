@@ -48,9 +48,13 @@
         "Tiffany Schedule": "e8357bc9ccf690ed8762c48241f1433730406533eb8880dd9a60725daeb5483a@group.calendar.google.com"
       },
       "coverage": [
-        "Tiffany"
+        "Tiffany",
+        "Ken",
+        "Judi",
+        "Dave",
+        "Debbie"
       ],
-      "notes": "Tiffany is the nanny."
+      "notes": "Tiffany is the nanny. Extended family also covers Micah at different times: Ken (Andrew's father) and Judi (Andrew's stepmother), and Dave and Debbie (Stephanie's parents). Calendars may say Kenneth or Judith."
     }
   },
   "standingAgreements": [
@@ -208,6 +212,36 @@
       "name": "Tiffany",
       "role": "nanny",
       "division": "kids"
+    },
+    {
+      "name": "Ken",
+      "role": "relative",
+      "division": "kids",
+      "relation": "Andrew's father",
+      "aka": [
+        "Kenneth"
+      ]
+    },
+    {
+      "name": "Judi",
+      "role": "relative",
+      "division": "kids",
+      "relation": "Andrew's stepmother",
+      "aka": [
+        "Judith"
+      ]
+    },
+    {
+      "name": "Dave",
+      "role": "relative",
+      "division": "kids",
+      "relation": "Stephanie's father"
+    },
+    {
+      "name": "Debbie",
+      "role": "relative",
+      "division": "kids",
+      "relation": "Stephanie's mother"
     }
   ]
 }
